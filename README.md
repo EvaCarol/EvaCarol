@@ -1,6 +1,6 @@
 <!-- 🌹 Banner principal -->
 <div align="center">
-  <img src="[https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXlhNmg4NGF6dzVkM2dsdDNsMGVlYXdleXRoOTVrc3A3dzE4dWp0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b17osqXImEFJKM/giphy.gif)" width="250"/>
+  <img src="[https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif]" width="250"/>
   
   #  Hey, sou a Evellyn mas pode me chamar de Eva!  
   <sub>💄 Desenvolvedora criativa • Inovação • Tecnologia com propósito 💫</sub>
