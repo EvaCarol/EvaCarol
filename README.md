@@ -41,7 +41,7 @@ Atualmente, desenvolvo e integro soluções com foco em usabilidade, impacto e p
 
 ### 💃 Vibrações de Diva Pop  
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6gbbuLW76jkt8vIc/giphy.gif" width="260"/>
+  <img src="https://media1.tenor.com/m/2MXuKSm5EjEAAAAC/raven-omg.gif" width="260"/>
   
   > "_Work hard, shine harder ✨_"
 </div>
@@ -52,8 +52,7 @@ Atualmente, desenvolvo e integro soluções com foco em usabilidade, impacto e p
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Evellyn%20Silva-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/evellyn-silva-9b6641210)  
-[![Portfólio](https://img.shields.io/badge/Portfólio-em%20breve-ff99cc?style=for-the-badge&logo=vercel)](https://github.com/EvaCarol)  
-[![Email](https://img.shields.io/badge/Contato-email%20me!-ff5faf?style=for-the-badge&logo=gmail)](mailto:seuemail@gmail.com)
+[![Email](https://img.shields.io/badge/Contato-email%20me!-ff5faf?style=for-the-badge&logo=gmail)](mailto:evellyn.silva@portodigital.org)
 
 </div>
 
