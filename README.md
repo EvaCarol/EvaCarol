@@ -1,6 +1,6 @@
 <!-- 🌹 Banner principal -->
 <div align="center">
-  <img src="[https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif]" width="250"/>
+  <img src="https://media1.tenor.com/m/gnA7-5TewXMAAAAC/elle-woods.gif" width="250"/>
   
   #  Hey, sou a Evellyn mas pode me chamar de Eva!  
   <sub>💄 Desenvolvedora criativa • Inovação • Tecnologia com propósito 💫</sub>
