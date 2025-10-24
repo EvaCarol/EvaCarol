@@ -22,7 +22,7 @@ Atualmente, desenvolvo e integro soluções com foco em usabilidade, impacto e p
 
 | 💻 Desenvolvimento | ⚙️ Integração & Dados | 🎨 Design & Front |
 |--------------------|-----------------------|------------------|
-| JavaScript · Flutter · HTML · CSS | Node.js · Google Apps Script · n8n · BigQuery | Figma · UX/UI |
+| JavaScript · Python · HTML · CSS | Node.js · Google Apps Script · n8n · BigQuery | Figma · UX/UI |
 
 </div>
 
